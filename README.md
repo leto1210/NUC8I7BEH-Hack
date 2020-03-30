@@ -70,7 +70,6 @@ Type|Item
 * Overall optimization
 
 ### Tools
-* [Clover Installer](https://sourceforge.net/projects/cloverefiboot/files/Installer/)
 * [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/)
 * [Hackintoosh](http://headsoft.com.au/download/mac/Hackintool.zip)
 * [Intel Power Gadget](https://software.intel.com/en-us/articles/intel-power-gadget)
