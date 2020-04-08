@@ -1,7 +1,7 @@
 # Software
 
 ---
-Setup for a MacMini 8,1 with OpenCore v057
+Setup for a MacMini 8,1 with OpenCore v056
 
 Catalina version 10.15.4
 
@@ -29,7 +29,7 @@ macOS Mojave version 10.15.4
 
 ## Installing OpenCore
 
-Using OpenCore version 057
+Using OpenCore version 056
 
 _Under Drivers (Recommanded / FileSystem / Memory Fix / Additional) choose:_
 
