@@ -1,5 +1,7 @@
 # BIOS settings for installation and boot (eGPU)
 
+Disable ASPM for Ethernet Perf
+
 ***Bios version 1105 (2019/06/25)***
 
 ````
