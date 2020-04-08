@@ -38,6 +38,8 @@ Type|Item
 ### Not Working
 ---
 
+* No MSR 0xE2 on NUC8 Series
+
 * Mojave install boots successfully
 * APFS - NVME - WD Black
 * Sata - WD Green
@@ -77,3 +79,4 @@ Type|Item
 * [MacIASL](http://sourceforge.net/projects/maciasl)
 * [VideoProc](https://www.videoproc.com/) - Chech UHD Hardware Acceleration
 * [Install Disk Creator](https://macdaddy.io/install-disk-creator/)
+* [OpenCore Sanity Checker](https://opencore.slowgeek.com)
