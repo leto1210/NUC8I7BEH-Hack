@@ -34,17 +34,11 @@ Type|Item
 ### Working
 ---
 
-
-### Not Working
----
-
 * No MSR 0xE2 on NUC8 Series
 
-* Mojave install boots successfully
-* APFS - NVME - WD Black
-* Sata - WD Green
-* Sapphire Pulse VEGA 56 HDMI and Display Port
-* Headless iGPU UHD 630
+* Catalina install boots successfully
+* APFS - Sata Samsung QVO
+* iGPU UHD 655
 * Wired Ethernet - Intel I219-V PCI Express Gigabit Ethernet
 * Wireless Ethernet / Wifi - Airport A1465 (Bcm94360Cs2)
 * Bluetooth - Airport A1465 (Bcm94360Cs2)
@@ -55,21 +49,27 @@ Type|Item
 * Apple Superdrive USB 2.0
 * USB 3.1 and USB C
 * Sleep/Wake
+
+
+### Not Working
+---
+
+
+
+### Being finalized
+---
+* Overall optimization
 * Quicklook
 * Youtube video
 * Netflix with Chrome and Safari
 * H.264 videos via VLC (.mkv, .m4a, .m4p)
-* HWMonitor (after copying required kexts to EFI/Kexts/Others)
+* HWMonitor
 * AirPlay
 * Handoff & Continuity
 * Facetime
 * Itunes
 * Apple Store
 * Nightshift
-
-### Being finalized
----
-* Overall optimization
 
 ### Tools
 * [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/)
@@ -78,5 +78,4 @@ Type|Item
 * [LG 4K Dolby Trailer](https://drive.google.com/uc?export=download&id=1Fr_pI7uadSs9K99WFrJx2-1m8GwcC1R9)
 * [MacIASL](http://sourceforge.net/projects/maciasl)
 * [VideoProc](https://www.videoproc.com/) - Chech UHD Hardware Acceleration
-* [Install Disk Creator](https://macdaddy.io/install-disk-creator/)
 * [OpenCore Sanity Checker](https://opencore.slowgeek.com)
