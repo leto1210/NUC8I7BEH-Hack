@@ -1,7 +1,7 @@
 # Software
 
 ---
-Setup for a MacMini 8,1 with OpenCore v056
+Setup for a MacMini 8,1 with OpenCore v057
 
 Catalina version 10.15.4
 
@@ -29,13 +29,14 @@ macOS Mojave version 10.15.4
 
 ## Installing OpenCore
 
-Using OpenCore version 056
+Using OpenCore version 057
 
 _Under Drivers (Recommanded / FileSystem / Memory Fix / Additional) choose:_
 
 * _ApfsDriverLoader.efi_ - This allows OpenCore to see and boot from APFS volumes by loading apfs.efi from ApfsContainer located on block device
-* _VBoxHfs.efi_ - Apple official driver for HFS Plus
-* _FwRuntimeServices.efi_ - Required
+* _HFSPlus.efi_ - Apple official driver for HFS Plus
+* _OpenRuntime.efi_ - Required
+* _OpenCanopy.efi_ - Optional
 
 
 ## Config.plist
@@ -59,3 +60,4 @@ SMCSuperIO.kext | Metrics
 IntelMausi.kext | Ethernet
 Lilu.kext | Audio + Graphics
 WhateverGreen | Graphics
+
