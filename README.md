@@ -3,19 +3,19 @@
 Inspiration by [Hackintosh / Vanilla](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) & [[GUIDE] Installing macOS Mojave (10.14.x) on Intel NUC8i7BEH using Clover UEFI](https://github.com/sarkrui/NUC8i7BEH-Hackintosh-Build) & [Hackintosh NUC8I5BEH - 黑苹果 - OpenCore & Clover](https://github.com/csrutil/NUC8I5BEH)
 
 Sections:
+
  * Jump to [Hardware](./Hardware.md)
  	* Jump to [Explain BIOS](./config_explain_BIOS.md)
  * Jump to [Software](./Software.md)
  	* Jump to [Explain ACPI](./config_explain_ACPI.md)
- 	* Jump to [Explain BOOT](./config_explain_BOOT.md)
  	* Jump to [Explain DEVICES](./config_explain_DEVICES.md)
  	* Jump to [Explain Kernel And Kext Patches](./config_explain_KandKexTPatches.md)
  	* Jump to [Explain SSDT USB](./config_ssdt_usb.md)
  * Jump to [Benchmark](./benchmark.md)
 
 
-![About Mac](./Images/About_2.jpg)
-![About UHD](./Images/UHD_630_About.jpg)
+![About Mac](./Images/About.jpg)
+
 
 
 
