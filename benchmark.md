@@ -1,6 +1,6 @@
 # Intel Power Gadget
 
-![About](./Images/Intel_Power_Gadget.png)
+![About](./Images/Intel_Power_Gadget.jpg)
 
 
 # Geekbench 5
@@ -10,6 +10,4 @@
 
 # Cinebench Release 20
 
-![CPU Single Core](./Images/CineBench_01.png)
-![CPU](./Images/CineBench_02.png)
-![MP Ratio](./Images/CineBench_03.png)
+![CPU](./Images/CineBench_01.jpg)
