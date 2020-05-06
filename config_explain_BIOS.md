@@ -2,7 +2,7 @@
 
 Disable ASPM for Ethernet Perf
 
-***Bios version 1105 (2019/06/25)***
+***Bios version BECFL357.86A.0073 ***
 
 ````
 Always do a "Load Optimized Defaults" after Bios Update or before applying this parameters
