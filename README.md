@@ -1,6 +1,6 @@
 # NUC8I7BEH-Hack
 
-Inspiration by [Hackintosh / Vanilla](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) & [[GUIDE] Installing macOS Mojave (10.14.x) on Intel NUC8i7BEH using Clover UEFI](https://github.com/sarkrui/NUC8i7BEH-Hackintosh-Build) & [Hackintosh NUC8I5BEH - 黑苹果 - OpenCore & Clover](https://github.com/csrutil/NUC8I5BEH)
+Inspiration by [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide//) & [[GUIDE] Installing macOS Mojave (10.14.x) on Intel NUC8i7BEH using Clover UEFI](https://github.com/sarkrui/NUC8i7BEH-Hackintosh-Build) & [Hackintosh NUC8I5BEH - 黑苹果 - OpenCore & Clover](https://github.com/csrutil/NUC8I5BEH)
 
 Sections:
 
