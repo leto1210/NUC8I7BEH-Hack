@@ -47,6 +47,16 @@ Type|Item
 * Apple Superdrive USB 2.0
 * USB 3.1 and USB C
 * Sleep/Wake
+* Quicklook
+* Youtube video
+* Netflix with Chrome and Safari
+* H.264 videos via VLC (.mkv, .m4a, .m4p)
+* HWMonitor
+* AirPlay
+* Facetime
+* Itunes
+* Apple Store
+* Nightshift
 
 
 ### Not Working
@@ -58,17 +68,8 @@ Type|Item
 ### Being finalized
 ---
 * Overall optimization
-* Quicklook
-* Youtube video
-* Netflix with Chrome and Safari
-* H.264 videos via VLC (.mkv, .m4a, .m4p)
-* HWMonitor
-* AirPlay
 * Handoff & Continuity
-* Facetime
-* Itunes
-* Apple Store
-* Nightshift
+
 
 ### Tools
 * [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/)
